@@ -1,7 +1,0 @@
-path: C:/Users/USER/anaconda3/envs/capstone_pt/capstone_project_03/merged_bb/MERGED
-train: C:/Users/USER/anaconda3/envs/capstone_pt/capstone_project_03/merged_bb/MERGED/images/train
-val: C:/Users/USER/anaconda3/envs/capstone_pt/capstone_project_03/merged_bb/MERGED/images/val
-test: C:/Users/USER/anaconda3/envs/capstone_pt/capstone_project_03/merged_bb/MERGED/images/test
-
-nc: 8
-names: ['person', 'bicycle', 'car', 'motorcycle', 'traffic light', 'bus', 'train', 'truck']
